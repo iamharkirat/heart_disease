@@ -1,0 +1,11 @@
+﻿name,path
+vol_raw,/strategic_forecasts/data/raw/
+lbr_raw,/strategic_forecasts/data/raw/
+usr_raw,/strategic_forecasts/data/raw/
+productivity_raw,/strategic_forecasts/data/raw/
+utility_files,/strategic_forecasts/data/utility/
+log_file,/strategic_forecasts/logs/
+models,/strategic_forecasts/data/models/
+vol_processed,/strategic_forecasts/data/processed/
+lbr_processed,/strategic_forecasts/data/processed/
+productivity_processed,/strategic_forecasts/data/processed/
