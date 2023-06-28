@@ -1,0 +1,4 @@
+app_name: "heart_disease"
+
+file_paths:
+  path_params: '/heart_disease/data/utility/path_params.csv'
